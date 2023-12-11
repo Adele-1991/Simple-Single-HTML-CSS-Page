@@ -1,0 +1,413 @@
+/* Main Typography */
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 300;
+    line-height: 1.2px;
+}
+
+img {
+    width: 100%;
+    display: flex;
+}
+
+header {
+    background-image: url(img/bokeh_car_lights_bg.jpg);
+    width: 90%;
+    height: 600px;
+    display: block;
+    margin: auto auto;
+    background-repeat: no-repeat;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    position: relative;
+    top: 150px;
+    color: white;
+}
+
+h5 {
+    margin: 25px 25px;
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    vertical-align: baseline;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+hr {
+    width: 70%;
+}
+
+
+/* End Main Typography */
+
+/* Article Typography */
+
+.container {
+    width: 98%;
+    height: 100px;
+    display: block;
+    color: white;
+    display: flex;
+
+
+}
+
+.subtitleheader {
+    text-align: center;
+
+}
+
+.signup {
+    border-radius: 10px;
+    border: 1px solid white;
+    height: 40px;
+    width: 90px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+
+.transit {
+    text-align: left;
+    font-weight: 100;
+    display: block;
+    font-size: 1em;
+    vertical-align: baseline;
+
+}
+
+.firstarticle {
+    background-color: rgb(223, 223, 223);
+    height: 150px;
+    width: 89.05%;
+    margin-left: 94px;
+    margin-top: 0px;
+    text-align: center;
+    justify-content: center;
+    display: inline-block;
+}
+
+
+.article-container {
+    background-color: rgb(223, 223, 223);
+    height: 450px;
+    width: 89.05%;
+    margin-left: 94px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container2 {
+
+    width: 98%;
+    height: 700px;
+    display: block;
+
+}
+
+.article-title {
+    margin-top: 50px;
+}
+
+.article-subtitle {
+    margin-top: 60px;
+}
+
+.subtitleheader {
+    font-size: 12px;
+    position: relative;
+    top: 170px;
+    color: white;
+}
+
+.item1 {
+    margin-left: 250px;
+}
+
+
+.item3 {
+    margin-right: 250px;
+}
+
+div [class^=item] {
+    background-color: white;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    border: 1px solid white;
+    align-items: center;
+    margin-bottom: 40px;
+
+}
+
+div [class^=par] {
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 300px;
+}
+
+.secondarticle {
+    background-color: white;
+    height: 150px;
+    width: 89.05%;
+    margin-left: 94px;
+    margin-top: 0px;
+    text-align: center;
+    justify-content: center;
+    display: inline-block;
+}
+
+.secondarticle-title {
+    margin-top: 50px;
+}
+
+.secondarticle-subtitle {
+    margin-top: 60px;
+}
+
+.secondarticle-container {
+    background-color: white;
+    height: 250px;
+    width: 89.05%;
+    margin-left: 94px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+
+
+.samesize {
+    width: 200px;
+    height: 240px;
+    background-color: white;
+    margin-top: 5px;
+}
+
+.thirdarticle-container {
+    background-color: white;
+    height: 250px;
+    width: 89.05%;
+    margin-left: 94px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    display: flex;
+}
+
+.par-thirdarticle-container {
+    text-align: center;
+    font-size: 10px;
+    position: relative;
+    top: 50px;
+    left: 550px;
+    right: 400px;
+}
+
+.fourtharticle-container {
+    background-color: hwb(207 55% 6%);
+    height: 600px;
+    width: 89.05%;
+    margin-left: 94px;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: center;
+    display: flex;
+}
+
+.H2-articlediv4 {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: -40px;
+
+}
+
+.divpar2 {
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.par2 {
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    margin-bottom: 20px;
+}
+
+.div5 {
+    background-color: rgb(68, 62, 62);
+    height: 250px;
+    width: 89.05%;
+    margin-left: 94px;
+    margin-top: 0px;
+    align-items: center;
+    display: flex;
+    color: wheat;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+
+
+/* End Article Typography */
+
+/* widget Typography */
+div [class^=dot] {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 20px;
+
+}
+
+.button {
+    height: 150px;
+    width: 600px;
+    background-color: rgb(117, 166, 223);
+    color: aliceblue;
+    border: 10px solid rgb(117, 166, 223);
+    border-radius: 14px;
+    position: relative;
+    top: 300px;
+    left: 750px;
+    font-size: 1rem;
+}
+
+.dot1 {
+    background-color: rgb(40, 145, 206);
+}
+
+.dot2 {
+    background-color: rgb(25, 230, 86);
+}
+
+.dot3 {
+    background-color: rgb(192, 40, 146);
+}
+
+div [class^=text] {
+    line-height: 1.5rem;
+
+
+}
+
+
+.profilewidget {
+
+    width: 190px;
+    height: 190px;
+    background-repeat: no-repeat;
+
+}
+
+.prfwidg {
+    border-radius: 100px;
+}
+
+
+
+.button2 {
+    height: 180px;
+    width: 200px;
+    background-color: rgb(117, 166, 223);
+    color: aliceblue;
+    border: 40px;
+    border-radius: 10px;
+    position: relative;
+    top: 140px;
+    right: 500px;
+    left: 200px;
+    font-size: 1.5rem;
+}
+
+.forms {
+    padding-left: 50px;
+    margin-top: 0px;
+}
+
+.info {
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    background-color: white;
+    border-radius: 4px;
+    border: 1px solid white;
+    margin-top: 50px;
+    margin-right: 40px;
+
+}
+
+.info2 {
+    text-align: start;
+    width: 450px;
+    height: 300px;
+    margin-top: 15px;
+    border-radius: 4px;
+    border: 1px solid white;
+}
+
+.submit-button {
+    text-align: center;
+    width: 190px;
+    height: 50px;
+    background-color: rgb(49, 46, 46);
+    color: white;
+    border: 1px solid rgb(49, 46, 46);
+    border-radius: 25px;
+    margin-top: 10px;
+    font-size: 1.1rem;
+    margin-left: 140px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.submit-button:hover {
+    color: blueviolet;
+}
+
+/* End Widget Typography */
+
+/* Navigation */
+li {
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 12px;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+    right: 10px;
+    left: 1400px;
+    bottom: auto;
+
+}
+
+/* End Navigation */

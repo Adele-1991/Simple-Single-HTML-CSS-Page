@@ -1,0 +1,1358 @@
+/* media screen maxwidth1024 */
+@media screen and (max-width: 1024px) {
+    header {
+        background-image: url(img/bokeh_car_lights_bg.jpg);
+        width: 90%;
+        height: 600px;
+        display: block;
+        margin: auto auto;
+        background-repeat: no-repeat;
+    }
+
+    li {
+        display: inline-block;
+        list-style-type: none;
+        text-decoration: none;
+        font-size: 12px;
+        color: aliceblue;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        top: 10px;
+        right: 10px;
+        left: 600px;
+        bottom: auto;
+
+    }
+
+    .container {
+        width: 98%;
+        height: 100px;
+        display: block;
+        color: white;
+        display: flex;
+
+
+    }
+
+    .subtitleheader {
+        text-align: center;
+        margin-top: -50px;
+
+    }
+
+    .signup {
+        border-radius: 10px;
+        border: 1px solid white;
+        height: 20px;
+        width: 60px;
+        color: black;
+        background-color: white;
+        text-decoration: none;
+    }
+
+
+    .firstarticle {
+        background-color: rgb(223, 223, 223);
+        height: 150px;
+        width: 90%;
+        margin-left: 46px;
+        margin-top: 0px;
+        text-align: center;
+        justify-content: center;
+        display: inline-block;
+    }
+
+    .article-container {
+        background-color: rgb(223, 223, 223);
+        height: 450px;
+        width: 90%;
+        margin-left: 46px;
+        margin-top: 0px;
+        margin-bottom: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        font-size: 16px;
+    }
+
+    .article-title {
+        font-size: 16px;
+        margin-top: 50px;
+        margin-bottom: 0px;
+    }
+
+    h5 {
+        font-size: 10px;
+
+    }
+
+    .divpar2 {
+        color: black;
+        text-align: center;
+        padding-top: -30px;
+        margin-bottom: 20px;
+        font-size: 10px;
+        margin-top: -10px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .par3 {
+        color: black;
+        text-align: center;
+        padding-top: -30px;
+        margin-bottom: 10px;
+        font-size: 10px;
+        margin-top: 0px;
+        line-height: 0.5;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .par4 {
+        color: black;
+        text-align: center;
+        padding-top: -30px;
+        margin-bottom: 10px;
+        font-size: 10px;
+        margin-top: 0px;
+        line-height: 0.5;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .secondarticle-title {
+        margin-top: 50px;
+        font-size: 16px;
+    }
+
+    .secondarticle {
+        background-color: white;
+        height: 150px;
+        width: 90%;
+        margin-left: 46px;
+        margin-top: 0px;
+        text-align: center;
+        justify-content: center;
+        display: inline-block;
+    }
+
+    .secondarticle-container {
+        background-color: white;
+        height: 250px;
+        width: 89.050%;
+        margin-left: 94px;
+        margin-top: 0px;
+        margin-bottom: 0;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .prfwidg {}
+
+    .samesize {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+
+    }
+
+    .profilewidget {
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+    }
+
+
+
+
+
+    .container2 {
+
+        width: 98%;
+        height: 700px;
+        display: block;
+
+    }
+
+    .article-title {
+        margin-top: 50px;
+    }
+
+    .article-subtitle {
+        margin-top: 60px;
+    }
+
+    .subtitleheader {
+        font-size: 12px;
+        position: relative;
+        top: 170px;
+        color: white;
+    }
+
+    div [class^=par] {
+        font-size: 12px;
+        line-height: 16px;
+        font-weight: 300px;
+    }
+
+
+    .secondarticle-subtitle {
+        margin-top: 60px;
+    }
+
+    .secondarticle-container {
+        background-color: white;
+        height: 150px;
+        width: 89.05%;
+        margin-left: 94px;
+        margin-top: 0px;
+        margin-bottom: 0;
+        display: inline-flex;
+        justify-content: space-around;
+    }
+
+
+
+    .samesize {
+        width: 100px;
+        height: 120px;
+        background-color: white;
+        margin-top: 5px;
+    }
+
+    .thirdarticle-container {
+        background-color: white;
+        height: 150px;
+        width: 89.05%;
+        margin-left: 64px;
+        margin-top: 0px;
+        margin-bottom: 0;
+        display: flex;
+    }
+
+    .par-thirdarticle-container {
+        text-align: center;
+        font-size: 10px;
+        position: relative;
+        top: 50px;
+        left: 180px;
+        right: 400px;
+    }
+
+    .button2 {
+        height: 180px;
+        width: 300px;
+        background-color: rgb(117, 166, 223);
+        color: aliceblue;
+        border: 40px;
+        border-radius: 10px;
+        margin-left: -400px;
+        margin-top: 0px;
+    }
+
+    .fourtharticle-container {
+        background-color: hwb(207 55% 6%);
+        height: 350px;
+        width: 89.05%;
+        margin-left: 64px;
+        margin-top: 0;
+        margin-bottom: 0;
+        justify-content: center;
+        display: flex;
+    }
+
+    .info {
+        text-align: center;
+        width: 130px;
+        height: 40px;
+        background-color: white;
+        border-radius: 4px;
+        border: 1px solid white;
+        margin-top: 30px;
+        margin-right: 25px;
+    }
+
+    .info2 {
+        text-align: start;
+        width: 350px;
+        height: 200px;
+        margin-top: 0px;
+        border-radius: 4px;
+        border: 1px solid white;
+    }
+
+
+    .H2-articlediv4 {
+        font-size: 16px;
+        text-align: center;
+        padding-top: 100px;
+        color: white;
+        margin-bottom: 0px;
+        margin-top: -80px;
+
+    }
+
+    .par2 {
+        color: white;
+        text-align: center;
+        padding-top: -30px;
+        margin-bottom: -20px;
+    }
+
+    .div5 {
+        background-color: rgb(68, 62, 62);
+        height: 125px;
+        width: 89.05%;
+        margin-left: 94px;
+        margin-top: 0px;
+        align-items: center;
+        display: flex;
+        color: wheat;
+        font-size: 14px;
+        font-weight: lighter;
+    }
+
+    div [class^=dot] {
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        display: inline-block;
+        margin-top: 20px;
+
+    }
+
+    .submit-button {
+        height: 75px;
+        width: 300px;
+        background-color: rgb(117, 166, 223);
+        color: aliceblue;
+        border: 10px solid rgb(117, 166, 223);
+        border-radius: 14px;
+        position: relative;
+        top: 0px;
+        left: -10px;
+        font-size: 1rem;
+    }
+
+    .profilewidget {
+
+        width: 90px;
+        height: 90px;
+        background-repeat: no-repeat;
+
+    }
+
+    .prfwidg {
+        border-radius: 100px;
+    }
+
+
+
+    .button2 {
+        height: 90px;
+        width: 100px;
+        background-color: rgb(117, 166, 223);
+        color: aliceblue;
+        border: 40px;
+        border-radius: 10px;
+        position: relative;
+        top: 140px;
+        right: 500px;
+        left: 200px;
+        font-size: 1.5rem;
+    }
+
+    .forms {
+        padding-left: 50px;
+        margin-top: 0px;
+    }
+
+    .info {
+        text-align: center;
+        width: 100px;
+        height: 30px;
+        background-color: white;
+        border-radius: 4px;
+        border: 1px solid white;
+        margin-top: 50px;
+        margin-right: 40px;
+
+    }
+
+    .info2 {
+        text-align: start;
+        width: 250px;
+        height: 150px;
+        margin-top: 15px;
+        border-radius: 4px;
+        border: 1px solid white;
+    }
+
+    .submit-button {
+        text-align: center;
+        width: 90px;
+        height: 30px;
+        background-color: rgb(87, 116, 170);
+        color: white;
+        border: 1px solid rgb(49, 46, 46);
+        border-radius: 25px;
+        margin-top: 10px;
+        font-size: 1.1rem;
+        margin-left: 140px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    }
+
+    .div5 {
+        background-color: rgb(68, 62, 62);
+        height: 250px;
+        width: 89.05%;
+        margin-left: 64px;
+        margin-top: 0px;
+        align-items: center;
+        display: flex;
+        color: wheat;
+        font-size: 14px;
+        font-weight: lighter;
+    }
+
+    /* End media screen maxwidth1024 */
+    /* media screen maxwidth850 */
+
+    @media screen and (max-width: 850px) {
+        header {
+            background-image: url(img/bokeh_car_lights_bg.jpg);
+            width: 90%;
+            height: 300px;
+            display: flex;
+            margin: auto auto;
+            background-repeat: no-repeat;
+        }
+
+        h1 {
+            position: relative;
+            top: 130px;
+            left: -140px;
+        }
+
+        li {
+            display: inline-block;
+            list-style-type: none;
+            text-decoration: none;
+            font-size: 12px;
+            color: aliceblue;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            top: 10px;
+            right: 10px;
+            left: 350px;
+            bottom: auto;
+
+        }
+
+        .container {
+            width: 98%;
+            height: 100px;
+            display: block;
+            color: white;
+            display: flex;
+
+
+        }
+
+        .subtitleheader {
+            text-align: center;
+            justify-content: center;
+            position: relative;
+            margin-top: -60px;
+            margin-left: -250px;
+
+        }
+
+        .button {
+            position: relative;
+            top: auto;
+            align-items: center;
+
+        }
+
+        .signup {
+            border-radius: 10px;
+            border: 1px solid white;
+            height: 20px;
+            width: 60px;
+            color: black;
+            background-color: white;
+            text-decoration: none;
+        }
+
+
+        .firstarticle {
+            background-color: rgb(223, 223, 223);
+            height: 100px;
+            width: 90%;
+            margin-left: 35px;
+            margin-top: 0px;
+            text-align: center;
+            justify-content: center;
+            display: inline-block;
+        }
+
+        .article-container {
+            background-color: rgb(223, 223, 223);
+            height: 450px;
+            width: 90%;
+            margin-left: 35px;
+            margin-top: 0px;
+            margin-bottom: 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            font-size: 16px;
+        }
+
+        .article-title {
+            font-size: 14px;
+            margin-top: -20px;
+        }
+
+        .article-subtitle {
+            margin-top: 0px;
+        }
+
+        div [class^=item] {
+            background-color: white;
+            width: 200px;
+            height: 250px;
+            text-align: center;
+            border: 1px solid white;
+            align-items: center;
+            margin-right: 5px;
+            margin-left: -10px;
+
+
+        }
+
+        h5 {
+            font-size: 10px;
+
+        }
+
+        .divpar2 {
+            color: black;
+            text-align: center;
+            padding-top: -30px;
+            margin-bottom: 20px;
+            font-size: 10px;
+            margin-top: -10px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .par3 {
+            color: black;
+            text-align: center;
+            padding-top: -30px;
+            margin-bottom: 10px;
+            font-size: 10px;
+            margin-top: 0px;
+            line-height: 0.5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .par4 {
+            color: black;
+            text-align: center;
+            padding-top: -30px;
+            margin-bottom: 10px;
+            font-size: 10px;
+            margin-top: 0px;
+            line-height: 0.5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .secondarticle-title {
+            margin-top: 50px;
+            font-size: 16px;
+        }
+
+        .secondarticle {
+            background-color: white;
+            height: 150px;
+            width: 90%;
+            margin-left: 46px;
+            margin-top: 0px;
+            text-align: center;
+            justify-content: center;
+            display: inline-block;
+        }
+
+        .secondarticle-container {
+            background-color: white;
+            height: 250px;
+            width: 89.050%;
+            margin-left: 94px;
+            margin-top: 0px;
+            margin-bottom: 0;
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .prfwidg {}
+
+        .samesize {
+            width: 250px;
+            height: 250px;
+            border-radius: 20px;
+
+        }
+
+        .profilewidget {
+            width: 250px;
+            height: 250px;
+            border-radius: 20px;
+        }
+
+
+
+
+
+        .container2 {
+
+            width: 98%;
+            height: 700px;
+            display: block;
+
+        }
+
+        .article-title {
+            margin-top: 50px;
+        }
+
+
+
+        .subtitleheader {
+            font-size: 12px;
+            position: relative;
+            top: 170px;
+            color: white;
+        }
+
+        div [class^=par] {
+            font-size: 12px;
+            line-height: 16px;
+            font-weight: 300px;
+        }
+
+
+        .secondarticle-subtitle {
+            margin-top: 60px;
+        }
+
+        .secondarticle-container {
+            background-color: white;
+            height: 150px;
+            width: 89.05%;
+            margin-left: 94px;
+            margin-top: 0px;
+            margin-bottom: 0;
+            display: inline-flex;
+            justify-content: space-around;
+        }
+
+
+
+        .samesize {
+            width: 100px;
+            height: 120px;
+            background-color: white;
+            margin-top: 5px;
+        }
+
+        .thirdarticle-container {
+            background-color: white;
+            height: 150px;
+            width: 89.05%;
+            margin-left: 64px;
+            margin-top: 0px;
+            margin-bottom: 0;
+            display: flex;
+        }
+
+        .par-thirdarticle-container {
+            text-align: center;
+            font-size: 10px;
+            position: relative;
+            top: 50px;
+            left: 80px;
+            right: 400px;
+        }
+
+        .button2 {
+            height: 90px;
+            width: 150px;
+            background-color: rgb(117, 166, 223);
+            color: aliceblue;
+            border: 10px solid rgb(117, 166, 223);
+            border-radius: 10px;
+            margin-left: -500px;
+            margin-top: -80px;
+            font-size: 12px;
+        }
+
+        .fourtharticle-container {
+            background-color: hwb(207 55% 6%);
+            height: 400px;
+            width: 89.05%;
+            margin-left: 64px;
+            margin-top: 0;
+            margin-bottom: 0;
+            justify-content: center;
+            display: flex;
+        }
+
+        .info {
+            text-align: center;
+            width: 150px;
+            height: 40px;
+            background-color: white;
+            border-radius: 4px;
+            border: 1px solid white;
+            margin-top: 30px;
+            margin-right: 25px;
+        }
+
+        .info2 {
+            text-align: start;
+            width: 350px;
+            height: 200px;
+            margin-top: 0px;
+            border-radius: 4px;
+            border: 1px solid white;
+        }
+
+
+        .H2-articlediv4 {
+            font-size: 16px;
+            text-align: center;
+            padding-top: 100px;
+            color: white;
+            margin-bottom: 0px;
+            margin-top: -80px;
+
+        }
+
+        .par2 {
+            color: white;
+            text-align: center;
+            padding-top: -30px;
+            margin-bottom: -30px;
+        }
+
+        .div5 {
+            background-color: rgb(68, 62, 62);
+            height: 125px;
+            width: 89.05%;
+            margin-left: 94px;
+            margin-top: 0px;
+            align-items: center;
+            display: flex;
+            color: wheat;
+            font-size: 14px;
+            font-weight: lighter;
+        }
+
+        div [class^=dot] {
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-top: 20px;
+
+        }
+
+        .button {
+            height: 75px;
+            width: 300px;
+            background-color: rgb(117, 166, 223);
+            color: aliceblue;
+            border: 10px solid rgb(117, 166, 223);
+            border-radius: 14px;
+            position: relative;
+            top: 300px;
+            left: 350px;
+            font-size: 1rem;
+        }
+
+        .profilewidget {
+
+            width: 90px;
+            height: 90px;
+            background-repeat: no-repeat;
+
+        }
+
+        .prfwidg {
+            border-radius: 100px;
+        }
+
+
+
+        .button2 {
+            height: 90px;
+            width: 100px;
+            background-color: rgb(117, 166, 223);
+            color: aliceblue;
+            border: 40px;
+            border-radius: 10px;
+            position: relative;
+            top: 140px;
+            right: 500px;
+            left: 200px;
+            font-size: 1.5rem;
+        }
+
+        .forms {
+            padding-left: 50px;
+            margin-top: 0px;
+
+        }
+
+        .info {
+            text-align: center;
+            width: 100px;
+            height: 30px;
+            background-color: white;
+            border-radius: 4px;
+            border: 1px solid white;
+            margin-top: 50px;
+            margin-right: 40px;
+
+        }
+
+        .info2 {
+            text-align: start;
+            width: 250px;
+            height: 150px;
+            margin-top: 15px;
+            border-radius: 4px;
+            border: 1px solid white;
+        }
+
+        .submit-button {
+            text-align: center;
+            width: 90px;
+            height: 30px;
+            background-color: rgb(120, 125, 196);
+            color: white;
+            border: 1px solid rgb(49, 46, 46);
+            border-radius: 25px;
+            margin-top: -100px;
+            font-size: 1.1rem;
+            margin-left: 140px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+
+        .div5 {
+            background-color: rgb(68, 62, 62);
+            height: 150px;
+            width: 89.05%;
+            margin-left: 64px;
+            margin-top: 0px;
+            align-items: center;
+            display: flex;
+            color: wheat;
+            font-size: 14px;
+            font-weight: lighter;
+        }
+
+
+    }
+
+    /* End media scree max-width850 */
+    /* media screen max-width648 */
+    @media screen and (max-width: 648px) {
+        header {
+            height: 350px;
+            width: 60%;
+            background-image: url('../img/bokeh_car_lights_bg.jpg');
+            color: white;
+            background-position: center;
+            background-repeat: no-repeat;
+            margin-bottom: 0px;
+        }
+
+        h1 {
+            position: relative;
+            top: 0px;
+            left: 40px;
+        }
+
+        li {
+            display: inline-block;
+            list-style-type: none;
+            text-decoration: none;
+            font-size: 12px;
+            color: aliceblue;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            top: 10px;
+            right: 10px;
+            left: 350px;
+            bottom: auto;
+
+        }
+
+        .container {
+            width: 98%;
+            height: 100px;
+            display: block;
+            color: white;
+            display: flex;
+
+
+        }
+
+        .subtitleheader {
+            text-align: center;
+            justify-content: center;
+            position: relative;
+            margin-top: -60px;
+            margin-left: -250px;
+
+        }
+
+        .button {
+            position: relative;
+            top: auto;
+            align-items: center;
+
+        }
+
+        .signup {
+            border-radius: 10px;
+            border: 1px solid white;
+            height: 20px;
+            width: 60px;
+            color: black;
+            background-color: white;
+            text-decoration: none;
+        }
+
+
+        .firstarticle {
+            background-color: rgb(223, 223, 223);
+            height: 100px;
+            width: 90%;
+            margin-left: 35px;
+            margin-top: 0px;
+            text-align: center;
+            justify-content: center;
+            display: inline-block;
+        }
+
+        .article-container {
+            background-color: rgb(223, 223, 223);
+            height: 450px;
+            width: 90%;
+            margin-left: 35px;
+            margin-top: 0px;
+            margin-bottom: 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            font-size: 16px;
+        }
+
+        .article-title {
+            font-size: 14px;
+            margin-top: -20px;
+        }
+
+        .article-subtitle {
+            margin-top: 0px;
+        }
+
+        div [class^=item] {
+            background-color: white;
+            width: 200px;
+            height: 250px;
+            text-align: center;
+            border: 1px solid white;
+            align-items: center;
+            margin-right: 5px;
+            margin-left: -10px;
+
+
+        }
+
+        h5 {
+            font-size: 10px;
+
+        }
+
+        .divpar2 {
+            color: black;
+            text-align: center;
+            padding-top: -30px;
+            margin-bottom: 20px;
+            font-size: 10px;
+            margin-top: -10px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .par3 {
+            color: black;
+            text-align: center;
+            padding-top: -30px;
+            margin-bottom: 10px;
+            font-size: 10px;
+            margin-top: 0px;
+            line-height: 0.5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .par4 {
+            color: black;
+            text-align: center;
+            padding-top: -30px;
+            margin-bottom: 10px;
+            font-size: 10px;
+            margin-top: 0px;
+            line-height: 0.5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .secondarticle-title {
+            margin-top: 50px;
+            font-size: 16px;
+        }
+
+        .secondarticle {
+            background-color: white;
+            height: 150px;
+            width: 90%;
+            margin-left: 46px;
+            margin-top: 0px;
+            text-align: center;
+            justify-content: center;
+            display: inline-block;
+        }
+
+        .secondarticle-container {
+            background-color: white;
+            height: 250px;
+            width: 89.050%;
+            margin-left: 94px;
+            margin-top: 0px;
+            margin-bottom: 0;
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .prfwidg {}
+
+        .samesize {
+            width: 250px;
+            height: 250px;
+            border-radius: 20px;
+
+        }
+
+        .profilewidget {
+            width: 250px;
+            height: 250px;
+            border-radius: 20px;
+        }
+
+
+
+
+
+        .container2 {
+
+            width: 98%;
+            height: 700px;
+            display: block;
+
+        }
+
+        .article-title {
+            margin-top: 50px;
+        }
+
+
+
+        .subtitleheader {
+            font-size: 12px;
+            position: relative;
+            top: 170px;
+            color: white;
+        }
+
+        div [class^=par] {
+            font-size: 12px;
+            line-height: 16px;
+            font-weight: 300px;
+        }
+
+
+        .secondarticle-subtitle {
+            margin-top: 60px;
+        }
+
+        .secondarticle-container {
+            background-color: white;
+            height: 150px;
+            width: 89.05%;
+            margin-left: 94px;
+            margin-top: 0px;
+            margin-bottom: 0;
+            display: inline-flex;
+            justify-content: space-around;
+        }
+
+
+
+        .samesize {
+            width: 100px;
+            height: 120px;
+            background-color: white;
+            margin-top: 5px;
+        }
+
+        .thirdarticle-container {
+            background-color: white;
+            height: 150px;
+            width: 89.05%;
+            margin-left: 64px;
+            margin-top: 0px;
+            margin-bottom: 0;
+            display: flex;
+        }
+
+        .par-thirdarticle-container {
+            text-align: center;
+            font-size: 10px;
+            position: relative;
+            top: 50px;
+            left: 80px;
+            right: 400px;
+        }
+
+        .button2 {
+            height: 90px;
+            width: 150px;
+            background-color: rgb(117, 166, 223);
+            color: aliceblue;
+            border: 10px solid rgb(117, 166, 223);
+            border-radius: 10px;
+            margin-left: -500px;
+            margin-top: -80px;
+            font-size: 12px;
+        }
+
+        .fourtharticle-container {
+            background-color: hwb(207 55% 6%);
+            height: 400px;
+            width: 89.05%;
+            margin-left: 64px;
+            margin-top: 0;
+            margin-bottom: 0;
+            justify-content: center;
+            display: flex;
+        }
+
+        .info {
+            text-align: center;
+            width: 150px;
+            height: 40px;
+            background-color: white;
+            border-radius: 4px;
+            border: 1px solid white;
+            margin-top: 30px;
+            margin-right: 25px;
+        }
+
+        .info2 {
+            text-align: start;
+            width: 350px;
+            height: 200px;
+            margin-top: 0px;
+            border-radius: 4px;
+            border: 1px solid white;
+        }
+
+
+        .H2-articlediv4 {
+            font-size: 16px;
+            text-align: center;
+            padding-top: 100px;
+            color: white;
+            margin-bottom: 0px;
+            margin-top: -80px;
+
+        }
+
+        .par2 {
+            color: white;
+            text-align: center;
+            padding-top: -30px;
+            margin-bottom: -30px;
+        }
+
+        .div5 {
+            background-color: rgb(68, 62, 62);
+            height: 125px;
+            width: 89.05%;
+            margin-left: 94px;
+            margin-top: 0px;
+            align-items: center;
+            display: flex;
+            color: wheat;
+            font-size: 14px;
+            font-weight: lighter;
+        }
+
+        div [class^=dot] {
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-top: 20px;
+
+        }
+
+        .button {
+            height: 75px;
+            width: 300px;
+            background-color: rgb(117, 166, 223);
+            color: aliceblue;
+            border: 10px solid rgb(117, 166, 223);
+            border-radius: 14px;
+            position: relative;
+            top: 300px;
+            left: 350px;
+            font-size: 1rem;
+        }
+
+        .profilewidget {
+
+            width: 90px;
+            height: 90px;
+            background-repeat: no-repeat;
+
+        }
+
+        .prfwidg {
+            border-radius: 100px;
+        }
+
+
+
+        .button2 {
+            height: 90px;
+            width: 100px;
+            background-color: rgb(117, 166, 223);
+            color: aliceblue;
+            border: 40px;
+            border-radius: 10px;
+            position: relative;
+            top: 140px;
+            right: 500px;
+            left: 200px;
+            font-size: 1.5rem;
+        }
+
+        .forms {
+            padding-left: 50px;
+            margin-top: 0px;
+
+        }
+
+        .info {
+            text-align: center;
+            width: 100px;
+            height: 30px;
+            background-color: white;
+            border-radius: 4px;
+            border: 1px solid white;
+            margin-top: 50px;
+            margin-right: 40px;
+
+        }
+
+        .info2 {
+            text-align: start;
+            width: 250px;
+            height: 150px;
+            margin-top: 15px;
+            border-radius: 4px;
+            border: 1px solid white;
+        }
+
+        .submit-button {
+            text-align: center;
+            width: 90px;
+            height: 30px;
+            background-color: rgb(120, 125, 196);
+            color: white;
+            border: 1px solid rgb(49, 46, 46);
+            border-radius: 25px;
+            margin-top: -100px;
+            font-size: 1.1rem;
+            margin-left: 140px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+
+        .div5 {
+            background-color: rgb(68, 62, 62);
+            height: 100px;
+            width: 89.05%;
+            margin-left: 64px;
+            margin-top: 0px;
+            align-items: center;
+            display: flex;
+            color: wheat;
+            font-size: 14px;
+            font-weight: lighter;
+        }
+
+
+
+    }
+
+    body {
+        margin: 0;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 12px;
+        font-weight: 200;
+        line-height: 1.2;
+    }
+
+    /* End media screen max-width648 */
+    /*media scree min-width1340 */
+
+    @media screen and (min-width: 1340px) {
+        header {
+            height: 2000px;
+            width: 3000;
+            background-image: url('../img/bokeh_car_lights_bg.jpg');
+            color: white;
+            background-position: center;
+            background-repeat: no-repeat;
+            margin-bottom: 0px;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Ubuntu', sans-serif;
+            font-size: 12px;
+            font-weight: 200;
+            line-height: 1.2;
+        }
+    }
+
+    /*End media scree min-width1340 */
